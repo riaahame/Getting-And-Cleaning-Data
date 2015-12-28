@@ -10,6 +10,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Steps to work on this course project
 
-Download the data source and put into a folder on your local drive. You'll have a "UCI HAR Dataset" folder.
-Put "run_analysis.R" in the parent folder of UCI HAR Dataset
-Run source("run _analysis.R").  This will generate a new text file "tidy_data.txt" in your working directory
+1. Download the data source and put into a folder on your local drive.
+2. You'll have a "UCI HAR Dataset" folder.
+3. Put "run_analysis.R" in the parent folder of UCI HAR Dataset
+4. Run source("run_analysis.R").  This will generate a new text file "tidy_data.txt" in your working directory
