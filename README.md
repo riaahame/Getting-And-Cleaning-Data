@@ -14,3 +14,7 @@ You should create one R script called run_analysis.R that does the following.
 2. You'll have a "UCI HAR Dataset" folder.
 3. Put "run_analysis.R" in the parent folder of UCI HAR Dataset
 4. Run source("run_analysis.R").  This will generate a new text file "tidy_data.txt" in your working directory
+
+## Additional Information
+
+You can find additional information about the analysis files, raw data and data tidying/cleanup in the CodeBook.MD file.
